@@ -1,2 +1,7 @@
 source "https://rubygems.org"
+gem "jekyll", "~> 4.3"
+gem "kramdown", "~> 2.4"
+gem "kramdown-parser-gfm"
+gem "rexml"
 gem "jekyll-material-theme"
+gem "webrick"
